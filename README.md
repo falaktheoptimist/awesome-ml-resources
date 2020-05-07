@@ -1,11 +1,11 @@
 # Awesome ML resources
 Collection of links to blogs/ resources on various ML topics found over the years.
 
-Pre requisites for ML:
+### Pre requisites for ML:
 * Linear Algebra refresher: http://cs229.stanford.edu/section/cs229-linalg.pdf
 * Python numpy refresher: https://cs231n.github.io/python-numpy-tutorial/
 
-Machine Learning Topics:
+### Machine Learning Topics:
 * Optimisers: https://ruder.io/optimizing-gradient-descent/
 * SVM and kernel functions: https://www.youtube.com/watch?v=XUj5JbQihlU
 * Xgboost: https://youtu.be/Vly8xGnNiWs
@@ -22,15 +22,15 @@ Deep Learning Topics:
 * Transformers: http://nlp.seas.harvard.edu/2018/04/01/attention.html and https://www.tensorflow.org/tutorials/text/transformer
 
 
-Particular to computer vision
-Faster rcnn : https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/
-Yolo: 
+### Particular to computer vision
+* Faster rcnn : https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/
+* Yolo: 
 
-Top conferences: 
+### Top conferences: 
 * ICLR: https://iclr.cc/
 * Neurips: https://nips.cc/
 * ICCV: http://iccv2019.thecvf.com/
 
-Practical/ hands on: 
+### Practical/ hands on: 
 * Kaggle (for ML contests/ Data Science kernels):  https://www.kaggle.com/
 * Google Colab (with free GPU/ TPU): https://colab.research.google.com/
