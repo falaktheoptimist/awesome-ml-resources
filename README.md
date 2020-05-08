@@ -24,7 +24,10 @@ Deep Learning Topics:
 
 ### Particular to computer vision
 * Faster rcnn : https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/
-* Yolo: 
+* Yolo: Entertaining paper- https://pjreddie.com/media/files/papers/YOLOv3.pdf
+
+### Reinforcement learning
+* UCL course by David Silver:  https://www.davidsilver.uk/teaching/
 
 ### Top conferences: 
 * ICLR: https://iclr.cc/
