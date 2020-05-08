@@ -1,5 +1,5 @@
 # Awesome ML resources
-Collection of links to blogs/ resources on various ML topics found over the years.
+Curated list of resources on various ML topics found after browsing through lots and lots of materials over the years.
 
 ### Pre requisites for ML:
 * Linear Algebra refresher: http://cs229.stanford.edu/section/cs229-linalg.pdf
