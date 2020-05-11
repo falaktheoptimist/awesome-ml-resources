@@ -18,8 +18,9 @@ Deep Learning Topics:
 * RNN: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 * LSTM : https://colah.github.io/posts/2015-08-Understanding-LSTMs/ accompanied with CS231n lecture 10
 
+* Sequence to sequence models: https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html or https://www.youtube.com/watch?v=XXtpJxZBa2c&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=8
 * Attention: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
-* Transformers: http://nlp.seas.harvard.edu/2018/04/01/attention.html and https://www.tensorflow.org/tutorials/text/transformer
+* Transformers: Maths/implementation: http://nlp.seas.harvard.edu/2018/04/01/attention.html and https://www.tensorflow.org/tutorials/text/transformer or if you're looking for an overview: http://jalammar.github.io/illustrated-transformer/
 
 
 ### Particular to computer vision
