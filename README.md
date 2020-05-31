@@ -30,6 +30,9 @@ Deep Learning Topics:
 ### Reinforcement learning
 * UCL course by David Silver:  https://www.davidsilver.uk/teaching/
 
+### NLP
+* Tokenizers: https://blog.floydhub.com/tokenization-nlp/
+
 ### Top conferences: 
 * ICLR: https://iclr.cc/
 * Neurips: https://nips.cc/
