@@ -24,8 +24,9 @@ Deep Learning Topics:
 
 
 ### Particular to computer vision
-* Faster rcnn : https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/
+* Faster rcnn : https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/ and flow with code: https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439
 * Yolo: Entertaining paper- https://pjreddie.com/media/files/papers/YOLOv3.pdf
+* Centernet: https://medium.com/visionwizard/centernet-objects-as-points-a-comprehensive-guide-2ed9993c48bc
 
 ### Reinforcement learning
 * UCL course by David Silver:  https://www.davidsilver.uk/teaching/
