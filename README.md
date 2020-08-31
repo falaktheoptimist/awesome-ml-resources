@@ -30,7 +30,7 @@ Deep Learning Topics:
 
 ### Reinforcement learning
 * UCL course by David Silver:  https://www.davidsilver.uk/teaching/
-
+* Hands on: https://pythonprogramming.net/q-learning-algorithm-reinforcement-learning-python-tutorial/
 ### NLP
 * Tokenizers: https://blog.floydhub.com/tokenization-nlp/
 
