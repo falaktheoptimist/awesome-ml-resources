@@ -31,14 +31,23 @@ Deep Learning Topics:
 ### Reinforcement learning
 * UCL course by David Silver:  https://www.davidsilver.uk/teaching/
 * Hands on: https://pythonprogramming.net/q-learning-algorithm-reinforcement-learning-python-tutorial/
+
 ### NLP
 * Tokenizers: https://blog.floydhub.com/tokenization-nlp/
+
+### GNNs:
+* https://www.youtube.com/watch?v=8owQBFAHw7E
+* https://twitter.com/PetarV_93/status/1306689702020382720
+
 
 ### Top conferences: 
 * ICLR: https://iclr.cc/
 * Neurips: https://nips.cc/
+* ICML: https://icml.cc/
 * ICCV: http://iccv2019.thecvf.com/
 
 ### Practical/ hands on: 
 * Kaggle (for ML contests/ Data Science kernels):  https://www.kaggle.com/
 * Google Colab (with free GPU/ TPU): https://colab.research.google.com/
+* AIcrowd: https://www.aicrowd.com/
+
