@@ -6,7 +6,7 @@ Curated list of resources on various ML topics found after browsing through lots
 * Python numpy refresher: https://cs231n.github.io/python-numpy-tutorial/
 
 ### Machine Learning Topics:
-* Optimisers: https://ruder.io/optimizing-gradient-descent/
+* Optimizers: https://ruder.io/optimizing-gradient-descent/
 * SVM and kernel functions: https://www.youtube.com/watch?v=XUj5JbQihlU
 * Xgboost: https://youtu.be/Vly8xGnNiWs
 * All topics revision: http://cs229.stanford.edu/syllabus.html
@@ -22,6 +22,7 @@ Deep Learning Topics:
 * Attention: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 * Transformers: Maths/implementation: http://nlp.seas.harvard.edu/2018/04/01/attention.html and https://www.tensorflow.org/tutorials/text/transformer or if you're looking for an overview: http://jalammar.github.io/illustrated-transformer/
 
+* Gaussian processes/ bayesian optimization: https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote15.html
 
 ### Particular to computer vision
 * Faster rcnn : https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/ and flow with code: https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439
